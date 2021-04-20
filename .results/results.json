@@ -1,0 +1,40 @@
+{
+  "test_case_results": [
+    {
+      "test_case_id": "RJSCP7SC0R_TEST_1",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCP7SC0R_TEST_2",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCP7SC0R_TEST_3",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCP7SC0R_TEST_4",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCP7SC0R_TEST_5",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCP7SC0R_TEST_6",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCP7SC0R_TEST_7",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCP7SC0R_TEST_8",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCP7SC0R_TEST_9",
+      "evaluation_result": "INCORRECT"
+    }
+  ]
+}
